@@ -1,0 +1,24 @@
+#calculadora {
+    background: wheat;
+    border: 2px solid blue;
+}
+
+#calculadora td {
+    padding: 4px;
+}
+
+#pantalla {
+    background-color: white;
+    color: #467702;
+    border: 3px solid black;
+    width: 130px;
+    height: 26px;
+    font-family: Arial, Helvetica;
+    font-size: 20px;
+    line-height: 26 px;
+    text-align: right;
+}
+
+#C {
+    color: red;
+}
